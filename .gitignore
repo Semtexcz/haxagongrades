@@ -2,3 +2,5 @@
 debian/
 
 .idea/
+
+dist/
