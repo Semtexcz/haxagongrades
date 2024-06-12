@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "haxagongrades"
-version = "0.1.1"
+version = "1.0.0-alpha.1"
 description = ""
 authors = ["Daniel Kopecký <kopecky.d@gmail.com>"]
 readme = "README.md"
