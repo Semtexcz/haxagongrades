@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "haxagongrades"
+version = "0.1.1"
+description = ""
+authors = ["Daniel Kopecký <kopecky.d@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+selenium = "^4.21.0"
+webdriver-manager = "^4.0.1"
+tqdm = "^4.66.4"
+click = "^8.1.7"
+pandas = "^2.2.2"
+loguru = "^0.7.2"
+
+[tool.poetry.scripts]
+haxagongrades = "haxagongrades.cli:cli"
+
+[tool.poetry.group.dev.dependencies]
+poetry2setup = "^1.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
