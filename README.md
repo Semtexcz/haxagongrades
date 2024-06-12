@@ -66,8 +66,8 @@ haxagongrades report "3.A" --format json --headless
 To contribute to this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/haxagon-grades-cli.git
-cd haxagon-grades-cli
+git clone https://github.com/Semtexcz/haxagongrades.git
+cd haxagongrades
 pip install -e .
 ```
 
