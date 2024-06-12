@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "haxagongrades"
 version = "1.0.0-alpha.1"
-description = ""
+description = "Haxagon Grades CLI is a command-line tool designed to manage and generate reports for Haxagon classes. The tool allows you to fetch and export class reports in different formats."
 authors = ["Daniel Kopecký <kopecky.d@gmail.com>"]
 readme = "README.md"
 
